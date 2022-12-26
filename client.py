@@ -1,4 +1,4 @@
-# Redes de computadores
+# Cliente
 
 import threading
 import socket
