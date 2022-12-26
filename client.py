@@ -1,5 +1,3 @@
-# Cliente
-
 import threading
 import socket
 
